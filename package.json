@@ -1,0 +1,15 @@
+{
+    "name": "tic-tac-toe-server",
+    "version": "1.0.0",
+    "description": "Tic-tac-toe played entirely through links, served by a hand-written Node.js HTTP server",
+    "main": "index.js",
+    "author": "Wissal Aanbi",
+    "license": "MIT",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "checksum": "^1.0.0",
+        "fs-extra": "^11.4.1"
+    }
+}
